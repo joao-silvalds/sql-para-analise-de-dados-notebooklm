@@ -186,8 +186,6 @@ A resposta foi clara e bem detalhada, inclusive adicionando considerações rele
 
 ## O que é SQL
 
-## O que é SQL
-
 SQL (Structured Query Language) é uma linguagem usada para gerenciar e consultar dados armazenados em bancos de dados relacionais.
 
 Ela é amplamente utilizada em áreas como:
